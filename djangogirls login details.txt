@@ -1,0 +1,8 @@
+djangogirls login details
+
+username: zackamata
+password: $1234.Q5p6M7
+
+
+username: gasariyali
+password: $1234.Q5p6M7
